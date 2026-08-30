@@ -5,6 +5,8 @@ The video game industry can be divided into two categories: *AAA* games and *Ind
 backed by passion and small teams. The main objective of this project is to determine
 whether *Indie* games achieve user satisfaction scores comparable to *AAA* games.
 
+![Summary-Plot](./plots/Summary_Plot.png)
+
 This project was done as part of MA2041 - Probability and Statistics Course
 
 `Sathish K`
